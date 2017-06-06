@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/packages
+/RobotQQ/bin/Debug
+/RobotQQ/obj/Debug
+/RobotQQ.Core/bin/Debug
+/RobotQQ.Core/obj/Debug
